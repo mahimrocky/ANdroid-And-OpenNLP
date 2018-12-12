@@ -16,7 +16,7 @@ First i will talk about how we can find person name among text. And remeber othe
 **N.B OpenNLP give you multiple possible Name.**
 SO you have to use trick to choose the perfect name or whole name. It depends on work purpose.
 
-SO now [**Goto this site**](http://opennlp.sourceforge.net/models-1.5/). Here you will get multiple language file. Now download **en-ner-person.bin** and **	en-token.bin** file. 
+SO now [**Goto this site**](http://opennlp.sourceforge.net/models-1.5/). Here you will get multiple language file. Now download **en-ner-person.bin** and **en-token.bin** file. 
 **N.B Downloaded file may be jar. SO don`t extract it just rename .bin**
 
 1. Copy the bin files and paste it in your assets folder
