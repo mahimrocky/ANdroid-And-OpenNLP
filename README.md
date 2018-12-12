@@ -71,7 +71,7 @@ Yeah we parse and got the token.
 
 Now you can find the possible names with multiline. You can try with multiple string or multiple line. I said it depends on work purpose.
 
-For finding name:
+For finding name: you have to pass **Tokens** variable in below method
 
 ```sh
 public String readName(String cnt[]) {
